@@ -1,0 +1,13 @@
+# Vercel
+.vercel
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (not used today, but keeps stray installs out of the repo)
+node_modules/
+npm-debug.log*
